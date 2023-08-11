@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Xboard](https://rakeshxboard.netlify.app/)
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on [QTrip Static](https://rakeshqtrip.netlify.app/)
 
@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [desire to learn and grow in the field of software development. With a bachelor Engineering in computer science,strong foundation in programming fundamentals and is proficient in programming languages such as Python, C++, and JavaScript.quick learner and loves to take on new challenges.experience building small projects and is constantly looking for ways to improve his skills.great team player and loves to collaborate with other developers to build innovative solutions. Outside of coding,loves to read books on philosophy and spirituality, which he finds helps him to approach problems with a fresh perspective. He is also an avid football fan. With his strong work ethic, love for learning, and passion for software development, excited to take on new opportunities and make a meaningful contribution to the industry)
 
-- 💬 Ask me about **Java, javascript, python, html, css**
+- 💬 Ask me about **Java, javascript, python, html, css,React js, react hooks**
 
 - 📫 How to reach me **vanamrakesh2@gmail.com**
 
